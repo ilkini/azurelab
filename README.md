@@ -1,2 +1,1 @@
-# azurelab
 Azure Lab
